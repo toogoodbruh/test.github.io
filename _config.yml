@@ -1,0 +1,6 @@
+url: https://www.test.subtoogoodbruh.com   # with the https protocol
+enforce_ssl: www.test.sub.toogoodbruh.com   # without any protocol
+
+# For example, my configuration is this:
+url: https://test.sub.toogoodbruh.com
+enforce_ssl: test.sub.toogoodbruh.com
